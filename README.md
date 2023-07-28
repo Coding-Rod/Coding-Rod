@@ -1,7 +1,5 @@
 # Hi, I'm Rodrigo Fernandez 👋
 
-![Rodrigo - Avatar](https://avatars.githubusercontent.com/u/48334944?v=4)
-
 I'm a passionate developer who loves to code and build cool projects.
 
 ## 🚀 Skills & Technologies
