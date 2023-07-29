@@ -13,16 +13,16 @@ I'm a passionate developer who loves to code and build cool projects.
 
 [![GitHub followers](https://img.shields.io/github/followers/Rod5919?style=social)](https://github.com/Rod5919)
 [![GitHub contributions](https://img.shields.io/github/commit-activity/m/Rod5919/mat2csv)](https://github.com/Rod5919/mat2csv)
-[![GitHub Visitors](https://visitcount.itsvg.in/api?id=Rod5919&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
+[![GitHub Visitors](https://visitcount.itsvg.in/api?id=Rod5919&label=Profile%20Views&color=1&icon=1)](https://visitcount.itsvg.in)
 
 ## 🔨 Featured Projects
 
 - [Weapon detection](https://github.com/Rod5919/crime_detection) - A project that detects weapons in a video. I used this project to obtain my degree in Mechatronics Engineering.
-- [Mixology](https://github.com/Rod5919/mixology) - The source code of a machine capable of preparing cocktails. I used python and QT to develop the GUI and the logic of the machine and Raspberry Pi to control the hardware.
+- [Mixology](https://github.com/Rod5919/mixology) - The source code of a machine capable of preparing cocktails. I used Python and QT to develop the GUI and the logic of the machine and Raspberry Pi to control the hardware.
 
 ## 🌱 Open Source Contributions
 
-- [Mat2Csv](https://www.github.com/Rod5919/mat2csv) - A python script that converts a .mat file to a .csv file.
+- [Mat2Csv](https://www.github.com/Rod5919/mat2csv) - A Python script that converts a .mat file to a .csv file.
 
 ## 📫 Contact Me
 
