@@ -13,6 +13,7 @@ I'm a passionate developer who loves to code and build cool projects.
 
 [![GitHub followers](https://img.shields.io/github/followers/Rod5919?style=social)](https://github.com/Rod5919)
 [![GitHub contributions](https://img.shields.io/github/commit-activity/m/Rod5919/mat2csv)](https://github.com/Rod5919/mat2csv)
+[![GitHub Visitors](https://visitcount.itsvg.in/api?id=Rod5919&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🔨 Featured Projects
 
