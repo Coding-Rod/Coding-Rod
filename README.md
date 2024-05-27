@@ -17,8 +17,8 @@ I'm a passionate developer who loves to code and build cool projects.
 
 ## 🔨 Featured Projects
 
-- [Weapon detection](https://github.com/Rod5919/crime_detection) - A project that detects weapons in a video. I used this project to obtain my degree in Mechatronics Engineering.
-- [Mixology](https://github.com/Rod5919/mixology) - The source code of a machine capable of preparing cocktails. I used Python and QT to develop the GUI and the logic of the machine and Raspberry Pi to control the hardware.
+- [Weapon detection](https://github.com/Coding-Rod/crime_detection) - A project that detects weapons in a video. I used this project to obtain my degree in Mechatronics Engineering.
+- [Mixology](https://github.com/Coding-Rod/mixology) - The source code of a machine capable of preparing cocktails. I used Python and QT to develop the GUI and the logic of the machine and Raspberry Pi to control the hardware.
 
 ## 🌱 Open Source Contributions
 
@@ -32,4 +32,4 @@ I'm a passionate developer who loves to code and build cool projects.
 
 ## 📊 GitHub Stats
 
-![Your Name - GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rod5919&show_icons=true&hide_title=true&hide=prs,contribs)
+![Your Name - GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coding-Rod&show_icons=true&hide_title=true&hide=prs,contribs)
