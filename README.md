@@ -32,4 +32,4 @@ I'm a passionate developer who loves to code and build cool projects.
 
 ## 📊 GitHub Stats
 
-![Your Name - GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coding-Rod&show_icons=true&hide_title=true&hide=prs,contribs)
+![Your Name - GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Coding-Rod&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
