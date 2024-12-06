@@ -4,10 +4,10 @@ I'm a passionate developer who loves to code and build cool projects.
 
 ## 🚀 Skills & Technologies
 
-- **Languages:** Python, TypeScript, JavaScript
-- **Frameworks:** React.js, Vue.js, Node.js, Express.js, Flask, FastAPI, Django
-- **Databases:** MySQL, PostgreSQL, Firebase
-- **Tools:** Git, VS Code, Docker, Digital Ocean
+- **Languages:** Python, TypeScript, JavaScript, C++
+- **Frameworks:** React.js, Express.js, Flask, FastAPI, Vue.js, Django
+- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
+- **Tools:** Git, VS Code, Docker, Digital Ocean, AWS
 
 ## 🏆 Badges & GitHub Stats
 
