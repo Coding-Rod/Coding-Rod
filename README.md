@@ -9,12 +9,6 @@ I'm a passionate developer who loves to code and build cool projects.
 - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
 - **Tools:** Git, VS Code, Docker, Digital Ocean, AWS
 
-## 🏆 Badges & GitHub Stats
-
-[![GitHub followers](https://img.shields.io/github/followers/Coding-Rod?style=social)](https://github.com/Coding-Rod)
-[![GitHub contributions](https://img.shields.io/github/commit-activity/m/Coding-Rod/mat2csv)](https://github.com/Coding-Rod/mat2csv)
-[![GitHub Visitors](https://visitcount.itsvg.in/api?id=Coding-Rod&label=Profile%20Views&color=1&icon=1)](https://visitcount.itsvg.in)
-
 ## 🔨 Featured Projects
 
 - [Weapon detection](https://github.com/Coding-Rod/crime_detection) - A project that detects weapons in a video. I used this project to obtain my degree in Mechatronics Engineering.
