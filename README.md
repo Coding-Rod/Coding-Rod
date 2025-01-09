@@ -11,8 +11,8 @@ I'm a passionate developer who loves to code and build cool projects.
 
 ## 🏆 Badges & GitHub Stats
 
-[![GitHub followers](https://img.shields.io/github/followers/Rod5919?style=social)](https://github.com/Coding-Rod)
-[![GitHub contributions](https://img.shields.io/github/commit-activity/m/Rod5919/mat2csv)](https://github.com/Coding-Rod/mat2csv)
+[![GitHub followers](https://img.shields.io/github/followers/Coding-Rod?style=social)](https://github.com/Coding-Rod)
+[![GitHub contributions](https://img.shields.io/github/commit-activity/m/Coding-Rod/mat2csv)](https://github.com/Coding-Rod/mat2csv)
 [![GitHub Visitors](https://visitcount.itsvg.in/api?id=Coding-Rod&label=Profile%20Views&color=1&icon=1)](https://visitcount.itsvg.in)
 
 ## 🔨 Featured Projects
